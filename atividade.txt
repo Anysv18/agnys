@@ -1,0 +1,21 @@
+aluna: Agnys Araujo Gouveia
+
+Atividade 
+
+commit nada mais é do que um pacote de alterações que fizemos nos arquivos e pastas. Cada commit possui um ID próprio, para que possamos localizá-lo posteriormente. Esse ID irá referenciar ao commit, que é o pacote de atualizações feitas naquele projeto, naqueles arquivos, naquela hora e naquela branch.
+
+Branch, em tradução literal, significa “ramo”. No mundo da programação, ela tem o mesmo significado: uma branch é uma ramificação do seu projeto.
+
+
+Merge - fundir 
+
+
+Mainline- linha principal 
+
+clone é usado sobretudo para apontar para um repositório existente e fazer um clone ou cópia deste repositório no novo diretório, em outro local. O repositório original pode estar localizado no sistema de arquivos local ou em protocolos com suporte a acesso por máquinas remotas.
+
+
+Uma programação push é uma programação sem referência que pode ser gerada por um sistema de planejamento ou criada manualmente. Em ambos os casos, o mesmo procedimento é seguido.
+
+
+Em programação, as chamadas pull requests (“solicitação de puxar”, na tradução livre) acontecem quando um dos braços do projeto notifica uma alteração ou finalização de um tarefa, para que esse trabalho seja integrado ao todo.
